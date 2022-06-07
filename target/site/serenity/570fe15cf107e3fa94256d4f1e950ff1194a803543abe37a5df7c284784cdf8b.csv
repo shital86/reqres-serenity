@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Users CRUD test","Verify is User is added or not","FAILURE","2022-06-07T17:47:26.776+01:00[Europe/London]","0.0","0.25"
+"Users CRUD test","This will login a user","FAILURE","2022-06-07T17:47:27.113+01:00[Europe/London]","0.0","0.23"
